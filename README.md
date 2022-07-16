@@ -16,7 +16,7 @@ sudo apt install ffmpeg
 * ***This code does not gracefully kill the spawned extra process. One should manually kill the process.***
 
 ## Screenshot
-![Screenshot](URL "./screen.png")
+![Screenshot](./screen.png)
 
 ## References
   
